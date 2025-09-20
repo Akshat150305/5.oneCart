@@ -76,7 +76,7 @@ function ProductDetail() {
                 </div>
                 <p className='text-[30px] font-semibold pl-[5px] text-[white]'>{currency} {productData.price}</p>
 
-                <p className=' w-[80%] md:w-[60%] text-[20px] font-semibold pl-[5px] text-[white]'>{productData.description} and Stylish, breathable cotton shirt with a modern slim fit. Easy to wash, super comfortable, and designed for effortless style.</p>
+                <p className=' w-[80%] md:w-[60%] text-[20px] font-semibold pl-[5px] text-[white]'>{productData.description} and fresh plants for your sustainable life.</p>
                 <div className='flex flex-col gap-[10px] my-[10px] '>
                     <p className='text-[25px] font-semibold pl-[5px] text-[white]'>Select Size</p>
           <div className='flex gap-2'>
@@ -105,18 +105,18 @@ function ProductDetail() {
 
             <div className='flex px-[20px] mt-[90px] lg:ml-[80px] ml-[0px]  lg:mt-[0px]  '>
 
-     <p className='border px-5 py-3 text-sm text-white'>
+     {/* <p className='border px-5 py-3 text-sm text-white'>
        Description
       </p>
       <p className='border px-5 py-3 text-sm text-white'>
        Reviews (124)
-      </p>
+      </p> */}
      </div>
 
-     <div className='w-[80%] md:h-[150px] h-[220px] bg-[#3336397c] border text-white text-[13px] md:text-[15px] lg:text-[20px] px-[10px] md:px-[30px] lg:ml-[100px] ml-[20px]'>
+     {/* <div className='w-[80%] md:h-[150px] h-[220px] bg-[#3336397c] border text-white text-[13px] md:text-[15px] lg:text-[20px] px-[10px] md:px-[30px] lg:ml-[100px] ml-[20px]'>
         <p className='w-[95%] h-[90%] flex items-center justify-center '>
       Upgrade your wardrobe with this stylish slim-fit cotton shirt, available now on OneCart. Crafted from breathable, high-quality fabric, it offers all-day comfort and effortless style. Easy to maintain and perfect for any setting, this shirt is a must-have essential for those who value both fashion and function.</p>
-     </div>
+     </div> */}
 
      <RelatedProduct category={productData.category} subCategory={productData.subCategory} currentProductId={productData._id}/>
         </div>

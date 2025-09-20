@@ -14,14 +14,14 @@ function About() {
         </div>
         <div className='lg:w-[50%] w-[80%] flex items-start justify-center gap-[20px]  flex-col mt-[20px] lg:mt-[0px]'>
           <p className='lg:w-[80%] w-[100%] text-[white] md:text-[16px] text-[13px]'>
-            OneCart born for smart, seamless shopping—created to deliver quality products, trending styles, and everyday essentials in one place. With reliable service, fast delivery, and great value, OneCart makes your online shopping experience simple, satisfying, and stress-free.
+            Apno Khet (meaning "Our Farm" in Hindi) is a family-owned and operated farm dedicated to providing our community with fresh, high-quality, and sustainably grown produce. We believe in the power of local agriculture to nourish both people and the planet. With reliable service, fast delivery, and great value, We makes your online shopping experience simple, satisfying, and stress-free.
           </p>
           <p className='lg:w-[80%] w-[100%] text-[white] md:text-[16px] text-[13px]'>
-             modern shoppers—combining style, convenience, and affordability. Whether it’s fashion, essentials, or trends, we bring everything you need to one trusted platform with fast delivery, easy returns, and a customer-first shopping experience you’ll love.
+             Each plant at Apno Khet is nurtured with care, meticulously packaged for a safe journey, and delivered directly to your doorstep. We are committed to providing you with not just a plant, but a new member of your family, along with all the guidance you need to help it thrive. We bring everything you need to one trusted platform with fast delivery, easy returns, and a customer-first shopping experience you’ll love.
           </p>
           <p className='lg:w-[80%] w-[100%] text-[15px] text-[white] lg:text-[18px] mt-[10px] font-bold'>Our Mission</p>
           <p className='lg:w-[80%] w-[100%] text-[white] md:text-[16px] text-[13px]'>
-            Our mission is to redefine online shopping by delivering quality, affordability, and convenience. OneCart connects customers with trusted products and brands, offering a seamless, customer-focused experience that saves time, adds value, and fits every lifestyle and need.
+            Empowering Plant Parents: We want to empower every plant enthusiast, from the seasoned gardener to the absolute beginner. We provide clear, simple guidance and resources to help you choose the perfect plant and give it the care it needs to flourish.
           </p>
         </div>
       </div>
